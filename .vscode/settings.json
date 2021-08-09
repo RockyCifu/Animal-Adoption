@@ -1,0 +1,14 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "adopt a pet",
+      "database": "adopt_a_pet",
+      "username": "postgres",
+      "password": "password"
+    }
+  ]
+}

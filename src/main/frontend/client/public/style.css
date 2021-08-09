@@ -1,0 +1,66 @@
+body {
+  background-color: #f9f9f9;
+}
+
+.images {
+  max-width: 250px;
+  max-height: 250px;
+}
+
+.adoption_app {
+  max-width: 40%;
+  margin: auto;
+  border-radius: 2%;
+  padding: 15px;
+}
+
+.error {
+  color: rgb(219, 47, 47);
+}
+
+.success-tile {
+  max-width: 50%;
+  margin: auto;
+}
+
+.cell {
+  max-width: 40%;
+  margin: auto;
+  padding-top: 1rem;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #0a0a0a;
+  color: #2f99e8;
+  text-align: center;
+  padding: 15px 0px;
+}
+
+.logo {
+  max-height: 40px;
+}
+
+.card {
+  background-color: #e0e2e9;
+  padding: 0.5rem;
+}
+
+form {
+  background-color: #e0e2e9;
+}
+
+.animal-show {
+  max-width: 40%;
+  margin: 1% auto 1% auto;
+  background-color: #e0e2e9;
+  border-radius: 2%;
+  padding: 0.25rem 1rem;
+}
+
+.home {
+  padding-bottom: 3rem;
+}
